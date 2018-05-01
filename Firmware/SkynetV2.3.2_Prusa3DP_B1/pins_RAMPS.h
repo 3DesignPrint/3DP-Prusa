@@ -96,7 +96,7 @@
 #define X_ENABLE_PIN       56 //38
 #define X_CS_PIN           49 //53
 //
-//Y moved to E0
+//Y moved to E1
 #define Y_STEP_PIN         36 //60
 #define Y_DIR_PIN          34 //61
 #define Y_ENABLE_PIN       30 //56
